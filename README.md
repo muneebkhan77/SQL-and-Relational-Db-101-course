@@ -1,4 +1,4 @@
-# SQL-and-Relational-Db-101-course
+# SQL-and-Relational-Db-101-course project
 
 # Code
 
